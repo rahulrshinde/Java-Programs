@@ -1,8 +1,8 @@
-package basic;
+package Loop;
 
 import java.util.Scanner;
 
-public class DoWhileSquareRoot {
+public class DoWhile {
 
 	public static void main(String[] args) {
 		int a;

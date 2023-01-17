@@ -1,4 +1,4 @@
-package Extra;
+package Practice;
 
 public class CharValue {
 
